@@ -40,6 +40,8 @@
 
 ### 링크 입력하기
 
-<https://youtube.com/>
+<https://github.com/>
 
-[유튜브 시청](https://youtube.com/, "유튜브나 보기")
+[깃허브 사용](https://github.com/, "깃허브 들어가기")
+
+* * *
