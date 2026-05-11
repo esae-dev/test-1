@@ -32,7 +32,7 @@
       let display. now.toLocaleTimeSrting();
       document.write(`현재 시각은 $(display)입니다.`);
     </script>
-'''
+```
 
 #### 코드 입력 끝!
 
